@@ -1,4 +1,4 @@
-ja
 <?php
-echo $data['title'];
+
+var_dump($data);
 ?>
