@@ -6,4 +6,5 @@ foreach ($data['users'] as $user) {
 }
 */
 ?>
-HOME PAGE
+
+<a href ="https://mvc-toets.org/countries/index" > Landenoverzicht </a>
